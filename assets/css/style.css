@@ -1,0 +1,165 @@
+		body{
+			 background-color: #0099cc; 
+		}
+		.header{
+			width: 1250px;
+			height: 100px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			margin-left: 60px;
+			border-radius: 10px;
+		}
+		.box_one{
+			position: relative;
+		}
+		div .image img{
+			width: 90px;
+			height: 90px;
+			border-radius: 50px;
+		}
+		.image{
+			display: inline-block;
+			margin-left: 30px;
+			position: absolute;
+			left: 3%;
+			top: 5px;
+		}
+		.title{
+			font-size: 30px;
+			display: inline-block;
+			padding:20px;
+			position: absolute;
+			left: 20%;
+			top: 10px;
+		}
+		.title h1{
+			word-spacing: 30px;
+			letter-spacing: 10px;
+			color: #330000;
+		}
+		.navbar	{
+			width: 1235px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			border-radius: 10px;
+			text-align: center;
+			padding:11px;
+			margin: 20px 55px;
+		}
+		.menu{
+			border-radius: 7px;
+			text-decoration: none;
+			font-size: 30px;
+			padding: 10px 20px 10px 10px;
+			color: black;
+		}
+		.menu:hover{
+			background: linear-gradient(#b30000, #0d0d0d,#b30000);
+			border: 1px solid white;	
+			color: white;
+		}
+		.content{
+			display: flex;
+			justify-content: space-between; 
+			width: 1260px;
+    		margin: -20px 53px;
+		}
+		.content_one{
+			border: 1px solid black;
+			width: 209px;
+			height: 300px;
+			margin-top: 20px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			border-radius: 10px;
+		}
+		.content_center{
+			border: 1px solid black;
+			width: 800px;
+			height: 300px;
+			margin-top: 20px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			border-radius: 10px;
+		}
+		.paragraph{
+			padding: 17px;
+			text-align: justify;
+			text-indent: 50px;
+		}
+		.textSize{
+			font-size: 30px;
+			color: blue;
+		}
+		.footer{
+			width: 1250px;
+			height: 130px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			margin-top: 40px;
+			margin-left: 60px;
+			margin-bottom: 20px;
+			border-radius: 10px;
+			padding-top: 20px;
+		}
+		.footer_content_one	{
+			display: inline-block;
+			padding-top: 0px;
+			padding-left: 50px;
+		}
+		table tr #sectionD{
+			padding-left: 80px;
+		}
+		.nameSize{
+			font-size: 30px;
+		}
+		.footer_label p{
+			text-align: center;
+			font-size: 30px;
+		}
+		.about_title{
+			text-align: center;
+			font-size: 40px;
+		}
+		.main_div{
+			width: 900px;
+			height: 550px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			border: 1px solid black;
+			border-radius: 10px;
+			margin-bottom: 50px;
+			margin-left: 220px;
+		}
+		.second_div{
+			width: 600px;
+			height: 350px;
+			background:linear-gradient(lightgreen,green,lightgreen);
+			border: 1px solid black;
+			border-radius: 10px;
+			margin: -15px 150px;
+		}
+		.about_name_size{
+			font-size: 40px;
+		}
+		.third_div{
+			margin: 100px 150px;
+		}
+		.Comment_title{
+			text-align: center;
+			padding-top: 5px;
+		}
+		.website_title{
+			text-align: center;
+			padding-top: 30px;
+		}
+		.back_button{
+			padding-right: 50px;
+			text-align: right;
+		}
+		.back_button a{
+			text-decoration: none;
+			border: 3px solid black;
+			border-radius: 5px;
+			padding: 5px;
+			color: black;
+			font-size: 20px;
+		}
+		.back_button a:hover{
+			background-color: black;
+			color: white;
+		}
